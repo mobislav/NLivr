@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/NLivr/obj
+/NLivr.sln.DotSettings.user
+/NLivr/bin/Debug/netstandard2.0
+/NLivr.Tests/bin/Debug/netcoreapp2.2
+/NLivr.Tests/obj
